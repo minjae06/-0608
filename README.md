@@ -1,1 +1,1 @@
-# -0608
+print('hello world')
